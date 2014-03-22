@@ -7,7 +7,7 @@ Pet's eye view motion trails for redesigning open spaces.
 ## Description
 Motion speaks like the birds and bees.
 
-To generate individual movement motion trails from atop a mobile platfrom, such as a self actuated vacuum robot going about its day, that hint at warm and cool spaces for collaborators, admirers, idlers, casual browsers and hangers-on. This impersonal information is a comment and will provide insight on open plan design. Interpreting such visualizations, may suggest ways to reduce interaction bottlenecks, and allow planning of spaces to improve purposeful walkabouts.
+To generate individual movement motion trails from atop a mobile platfrom, such as a self actuated vacuum robot going about its day, that hint at warm and cool spaces for collaborators, admirers, idlers, casual browsers and hangers-on. This impersonal information is a comment and will provide insight on open plan design. Interpreting such visualizations, may suggest ways to reduce interaction bottlenecks, and allow planning of spaces to encourage purposeful movement.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
