@@ -2,7 +2,7 @@
 Pet's eye view motion trails for redesigning open spaces.
 
 ## Authors
-Rahul Bhargava, rhlbhrgv-art
+- Rahul, Bhargava, rhlbhrgv-art
 
 ## Description
 Motion speaks like the birds and bees.
